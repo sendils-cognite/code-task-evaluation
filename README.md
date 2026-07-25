@@ -1,6 +1,6 @@
-# Solution Architect Python Exercise Pack
+# Python Code Exercise Pack
 
-This pack is for a ten-minute live assessment of Solution Architect candidates who
+This pack is for a ten-minute live assessment of candidates who
 will work on data-platform projects. It deliberately uses ordinary Python and generic
 data-platform concepts; no Cognite or CDF knowledge is required.
 
@@ -16,7 +16,6 @@ explains how the code would operate in production.
 - 3 minutes: interviewer asks two facilitator questions.
 - Choose one of the three complete assignments below.
 - Give candidates only that assignment's `candidate/` directory.
-- Keep every `facilitator/` directory private.
 
 ## Complete assignments
 
